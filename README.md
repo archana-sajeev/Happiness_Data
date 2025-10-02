@@ -10,7 +10,7 @@ This repository contains annual data from the **World Happiness Report**, offeri
 ## 📂 Example Columns
 - **Country**  
 - **Year**  
-- ** Score / Rank**  
+- **Score/Rank**  
 - **Economy**  
 - **Family**  
 - **Health**  
