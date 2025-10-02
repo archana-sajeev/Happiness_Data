@@ -23,4 +23,10 @@ Use this dataset for:
 - Exploratory data analysis  
 - Visualizations (e.g., Power BI, Tableau, Python, R)  
 - Predictive modeling of happiness trends  
-- Projects in **data science**, **public policy analysis**, and **well-being research**  
+- Projects in **data science**, **public policy analysis**, and **well-being research**
+
+  ## 📂 Dataset
+
+The dataset used in this project is available on **Kaggle**:  
+👉 [World Happiness Report Dataset on Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
