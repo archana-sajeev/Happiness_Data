@@ -1,7 +1,7 @@
 # 🌍 Global Happiness Report Analysis
 
 ![License](https://img.shields.io/badge/License-MIT-green)  
-![Dataset](https://img.shields.io/badge/Dataset-2015--2023-blue)  
+![Dataset](https://img.shields.io/badge/Dataset-2015--2019-blue)  
 ![MadeWith](https://img.shields.io/badge/Made%20with-PowerBI-yellow)
 
 This repository contains annual data from the **World Happiness Report** dataset (sourced from Kaggle), offering insights into global happiness by country using survey results and key indicators.Focuse on how different factors influence happiness scores across countries and time.  Using **Power Query** for data prep and **Power BI** for visual analysis, we explore global well-being, regional trends, and key drivers of happiness.
