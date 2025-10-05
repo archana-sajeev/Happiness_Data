@@ -59,6 +59,21 @@ Use this dataset for:
 - Predictive modeling of happiness trends  
 - Projects in **data science**, **public policy analysis**, and **well-being research**
 
+## 🌍 Conclusion
+
+This analysis of the **World Happiness Report** provides a powerful, interactive tool to explore **global well-being**.  
+By combining **data preparation in Power Query** with the **analytical and visualization capabilities of Power BI**, we have not only identified the key **drivers of happiness**, but also built a **reusable and expandable project** for future exploration.
+
+---
+
+### 💡 Explore Further
+
+This dashboard is designed to be a **starting point**.  
+We encourage you to **download the files**, **interact with the data**, and **discover new insights** to test your own hypotheses about what truly drives global happiness.
+
+---
+
+
 ## 🔮 Future Roadmap
 - [ ] Add dynamic slicers and filters in the dashboard  
 - [ ] Include the most recent data (2024, 2025)  
@@ -68,6 +83,8 @@ Use this dataset for:
 ## 📂 Dataset
 The dataset used in this project is available on **Kaggle**:  
 👉 [World Happiness Report Dataset on Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
+✨ *Thank you for exploring this project!*
   
 ## 📌 Author
 Created with ❤️ by **Archana Sajeev**  
